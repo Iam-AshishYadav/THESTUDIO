@@ -1,0 +1,9 @@
+*{
+    scroll-behavior: smooth;
+   }
+
+
+footer a{
+    text-decoration: none;
+    color: black;
+}

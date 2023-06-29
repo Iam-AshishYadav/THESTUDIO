@@ -1,0 +1,1 @@
+let  menu = document.querySelector('.navbar-toggler-icon');
